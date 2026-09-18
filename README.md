@@ -2,12 +2,9 @@
 
 ## Used Car Price Prediction
 
-A machine-learning coursework project using a used-car dataset to explore factors related to car selling prices and build regression models for price prediction.
+This coursework project uses a used-car dataset to explore factors associated with selling price and to build regression models for price prediction.
 
-## Dataset
-
-The dataset contains information such as:
-
+## Data used
 - Car name
 - Year
 - Selling price
@@ -19,26 +16,20 @@ The dataset contains information such as:
 - Previous owners
 
 ## What I worked on
-
-- Loading and exploring the dataset
-- Data cleaning
-- Feature analysis and visualisation
-- Preparing data for modelling
+- Exploring the dataset
+- Cleaning and preparing the variables
+- Looking at relationships between features
+- Creating visualisations
 - Training regression models
-- Model tuning
-- Comparing model results
+- Comparing model performance
 
 ## Tools
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+Python · Pandas · NumPy · Matplotlib · Scikit-learn
 
 ## Files
-
 - [script.py](script.py) — main Python implementation
 - [data.csv](data.csv) — dataset used by the project
 
-The project focuses on regression-based car price prediction. Model performance should be interpreted using the regression measures reported in the analysis rather than a generic classification accuracy percentage.
+## Project note
+
+This is coursework material. It shows my early practical work with data preparation and regression modelling and is kept separate from the later IoT research work.
